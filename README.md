@@ -1,1 +1,1 @@
-# RTX: Rate Trial & eXpose
+RTX: Rate to Expose

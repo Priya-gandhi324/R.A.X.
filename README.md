@@ -1,1 +1,1 @@
-# RTX: Rate to Expose
+# RAX: Rate & Expose
